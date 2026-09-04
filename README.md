@@ -21,7 +21,7 @@ Software Development × Artificial Intelligence
 
 ### `React.js` · `Bootstrap` · `Tailwind CSS` · `jQuery` · `Node.js`
 
-### `MySQL` · `Git` · `GitHub` · `AWS` · `Postman`
+### `MySQL` · `Git` · `GitHub` · `AWS` 
 
 ### `Machine Learning` · `LLMs` · `Scikit-Learn` · `Pandas` · `NumPy` · `Generative AI`
 
