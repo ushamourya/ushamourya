@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
+  
+# 👋 Hey, I'm Ushamourya
+<h3>Full-Stack Developer · AI/ML Enthusiast · Problem Solver</h3>
 
-<!--
-**ushamourya/ushamourya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building · Learning · Experimenting · Improving
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I turn ideas into applications and explore the intersection of
+Software Development × Artificial Intelligence
+
+</div>
+
+
+<div align="center">
+  
+  # ⚡ Tech Stack
+
+### `HTML` · `CSS` · `JavaScript` · `PHP` · `C` · `Python` · `SQL`
+
+### `React.js` · `Bootstrap` · `Tailwind CSS` · `jQuery` · `Node.js`
+
+### `MySQL` · `Git` · `GitHub` · `AWS` · `Postman`
+
+### `Machine Learning` · `LLMs` · `Scikit-Learn` · `Pandas` · `NumPy` · `Generative AI`
+
+</div>
+
+
+
+
