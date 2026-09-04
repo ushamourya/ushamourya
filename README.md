@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm Ushamourya
+# 👋 Hey, I'm Usha Mourya
 <h3>Full-Stack Developer · AI/ML Enthusiast · Problem Solver</h3>
 
 Building · Learning · Experimenting · Improving
